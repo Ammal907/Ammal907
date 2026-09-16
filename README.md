@@ -1,48 +1,33 @@
 # Hi, I'm Ammal Rizwan 👋
 
 🎓 BS Computer Science Student  
-💻 Learning C++ & Web Development  
-🎨 Interested in UI/UX & Figma Designing  
+💻 C++ & Web Development Learner  
+🎨 UI/UX & Figma Enthusiast  
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science student passionate about learning programming,
-web development, and modern UI design.
+I'm a Computer Science student passionate about programming,
+web development, and modern user interface design.
 
-I enjoy building projects, improving my coding skills, and exploring
-new technologies step by step.
+I enjoy learning new technologies, building projects, and
+continuously improving my problem-solving and development skills.
 
-Currently, I'm focused on strengthening my skills in **C++**, **HTML/CSS**,
-**Web Development**, and **Figma Designing**.
+Currently, I'm focused on strengthening my skills in **C++**,
+**Web Development**, **Git & GitHub**, and **Figma**.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- 💻 C++
-- 🌐 HTML
-- 🎨 CSS
-- 🖌️ Figma
-- 📚 Data Structures & Programming Fundamentals
-- 🔧 Git & GitHub
-
----
-
-## 📌 Featured Projects
-
-### 🎓 Student Report Card System
-A C++ based project for managing student academic records and report cards.
-
-### 🚌 Bus Reservation System
-A C++ project designed to manage bus reservations and passenger information.
-
-### 🍔 Foodie Crunchies
-A responsive food website created using HTML and CSS.
-
-### 💼 My Portfolio
-A personal portfolio website showcasing my skills and projects.
+- C++
+- HTML
+- CSS
+- Git & GitHub
+- Figma
+- Programming Fundamentals
+- Data Structures
 
 ---
 
@@ -52,14 +37,16 @@ A personal portfolio website showcasing my skills and projects.
 - Web Development
 - UI/UX Design
 - Git & GitHub
-- Building real-world projects
+- Real-world Software Development
 
 ---
 
 ## 🎯 Goals
 
-My goal is to become a skilled software developer by continuously
-learning, building projects, and improving my problem-solving skills.
+- Build meaningful and practical projects
+- Improve problem-solving skills
+- Learn modern development technologies
+- Grow as a software developer
 
 ---
 
